@@ -1,0 +1,10 @@
+C:\Users\Chelovek\source\repos\Drawings\Drawings\obj\Debug\Drawings.csprojAssemblyReference.cache
+C:\Users\Chelovek\source\repos\Drawings\Drawings\obj\Debug\Drawings.Form1.resources
+C:\Users\Chelovek\source\repos\Drawings\Drawings\obj\Debug\Drawings.Properties.Resources.resources
+C:\Users\Chelovek\source\repos\Drawings\Drawings\obj\Debug\Drawings.csproj.GenerateResource.cache
+C:\Users\Chelovek\source\repos\Drawings\Drawings\obj\Debug\Drawings.csproj.CoreCompileInputs.cache
+C:\Users\Chelovek\source\repos\Drawings\Drawings\bin\Debug\Drawings.exe.config
+C:\Users\Chelovek\source\repos\Drawings\Drawings\bin\Debug\Drawings.exe
+C:\Users\Chelovek\source\repos\Drawings\Drawings\bin\Debug\Drawings.pdb
+C:\Users\Chelovek\source\repos\Drawings\Drawings\obj\Debug\Drawings.exe
+C:\Users\Chelovek\source\repos\Drawings\Drawings\obj\Debug\Drawings.pdb
