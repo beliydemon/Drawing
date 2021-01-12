@@ -1,0 +1,5 @@
+﻿  PGrEdit.cpp
+C:\Users\Vitaardy\source\repos\GrEdit\PGrEdit.cpp(2,10): fatal error C1083: Не удается открыть файл включение: vcl.h: No such file or directory,
+  UGrEdit.cpp
+C:\Users\Vitaardy\source\repos\GrEdit\UGrEdit.cpp(2,10): fatal error C1083: Не удается открыть файл включение: vcl.h: No such file or directory,
+  Создание кода...
